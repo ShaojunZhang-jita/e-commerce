@@ -1,0 +1,9 @@
+.el-card {
+  width: 1080px;
+  height: 500px;
+  margin-top: 10px;
+}
+.el-card .pagination {
+  margin-top: 35px;
+  margin-left: 200px;
+}
